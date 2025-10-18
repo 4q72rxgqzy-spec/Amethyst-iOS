@@ -258,7 +258,6 @@
 "preference.warn.allocated_memory" = "Korlátozások miatt az operációs rendszerben, ez az opció instabilitást okozhat ezen nagyobb értékben.";
 "preference.title.custom_env" = "Környezeti változók";
 "preference.detail.custom_env" = "Ez az opció munka alatt áll. Hozz létre és szerkeszd a \"custom_env.txt\" fájlt addigis.";
-
 "preference.title.debug_skip_wait_jit" = "\"Várakozás JIT-re\" dialógus átugrása";
 "preference.detail.debug_skip_wait_jit" = "Ez nem engedélyezi számodra, hogy elindítsd JIT nélkükl, inkább átugorja a hibakeresési ellenőrzést, mert ellenőrzési hibákat okoz egyes jailbreak-eknél.";
 "preference.title.debug_ipad_ui" = "iPadOS UI feloldása";
