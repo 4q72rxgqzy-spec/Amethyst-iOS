@@ -221,10 +221,12 @@ der Minecraft-Version zu wählen. Verringerte Auflösung reduziert die Arbeitsla
 "preference.detail.gyroscope_invert_x_axis" = "Wechselt die X-Achse des Gyroskops";
 "preference.title.gyroscope_sensitivity" = "Gyroskop-Steuerungs-Empfindlichkeit";
 "preference.detail.gyroscope_sensitivity" = "Passe die Empfindlichkeit der Gyroskop-Steuerung an";
+"preference.manage_runtime.footer.java17" = "Dies ist die Standardversion für Minecraft 1,17 und neuer.";
 
 "preference.title.java_args" = "JVM-Start-Argumente";
 "preference.detail.java_args" = "Argumente an Java übergeben, wenn Minecraft gestartet wird. Sei vorsichtig, dies kann den Absturz des Spiels verursachen, wenn es falsch geändert wird.";
 "preference.placeholder.java_args" = "Argumente angeben...";
+"preference.detail.env_variables" = "Benutzerdefinierte Umgebungsvariablen beim Starten von Minecraft festlegen. Vorsicht, falsche Änderungen können zu Spielabstürzen führen.";
 "preference.title.auto_ram" = "Auto-RAM";
 "preference.detail.auto_ram" = "Aktiviert automatische RAM-Einstellungen";
 "preference.warn.auto_ram" = "Das Deaktivieren dieser Option kann auf einem nicht-ge-jailbreakten Gerät Instabilität erzeugen. Sei vorsichtig.";
@@ -259,6 +261,7 @@ der Minecraft-Version zu wählen. Verringerte Auflösung reduziert die Arbeitsla
 "controller_configurator.xbox.title.thumb_left" = "Linksklick";
 "controller_configurator.xbox.title.thumb_right" = "Rechtsklick";
 "controller_configurator.playstation.title.named_back" = "Auswählen";
+"controller_configurator.playstation.title.named_start" = "Start";
 "controller_configurator.playstation.title.named_a" = "Kreuz";
 "controller_configurator.playstation.title.named_b" = "Kreis";
 "controller_configurator.playstation.title.named_x" = "Quadrat";
